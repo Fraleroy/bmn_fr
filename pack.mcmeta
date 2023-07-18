@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "bmn_fr"
+  },
+  "language": {
+    "bmn_fr": {
+      "name": "Morvandiau Nord",
+      "region": "Morvan",
+      "bidirectional": false
+    }
+  }
+}
